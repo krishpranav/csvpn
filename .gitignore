@@ -1,0 +1,9 @@
+bin/
+obj/
+
+# system cache
+.DS_Store
+
+# ide cache
+.idea/
+.vscode
